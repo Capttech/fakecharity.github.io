@@ -18,14 +18,6 @@ body {
     font-size: 1.8rem;
 }
 
-.Description {
-    width: 100%;
-    height: 2rem;
-    text-align: center;
-    color: rgb(205, 205, 205);
-    font-size: 1.4rem;
-}
-
 .imgDiv {
     width: 100%;
     height: fit-content;
